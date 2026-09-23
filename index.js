@@ -1,0 +1,1 @@
+console.log("Проєкт SHO-PUSATU успішно запущено!");

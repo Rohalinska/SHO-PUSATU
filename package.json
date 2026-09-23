@@ -1,0 +1,22 @@
+{
+  "name": "sho-pusatu",
+  "version": "1.0.0",
+  "description": "Система управління та обліку щоденних завдань",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohalinska/SHO-PUSATU.git"
+  },
+  "keywords": ["task-manager", "javascript", "open-source"],
+  "author": "Rohalinska",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rohalinska/SHO-PUSATU/issues"
+  },
+  "homepage": "https://github.com/Rohalinska/SHO-PUSATU#readme"
+}
